@@ -1,16 +1,148 @@
-## Hi there 👋
+
 
 <!--
 **winkdy9/winkdy9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# winkdy
+AI Engineering student portfolio: algorithms, data structures and machine learning projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Привет! Меня зовут Анастасия
+
+Я студентка направления **«Инженерия искусственного интеллекта»**.
+
+Изучаю алгоритмы, структуры данных и методы машинного обучения.
+Интересуюсь разработкой интеллектуальных систем, анализом данных и применением математических методов в программировании.
+
+---
+
+## Области интересов
+
+* Artificial Intelligence
+* Machine Learning
+* Algorithms & Data Structures
+* Mathematical Methods in Computer Science
+
+Интересуюсь применением машинного обучения в продуктовых задачах, включая рекомендательные системы, мультимодальный поиск и улучшение пользовательского опыта с помощью ML-гипотез. Имею опыт командной разработки с использованием Git, code review и pull requests.
+
+
+---
+
+
+## Технические навыки
+
+**Programming languages**
+
+* Python
+* C
+
+**Machine Learning / Data Science**
+
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+* Exploratory Data Analysis (EDA)
+* Анализ ошибок моделей
+* Подготовка и обработка данных
+* Классические ML-алгоритмы
+
+**NLP / Information Retrieval**
+
+* Sentence Transformers
+* Text embeddings
+* Semantic Search
+* Vector representations
+* Cosine similarity
+* Работа с embedding-based retrieval
+
+**Engineering tools**
+
+* Git
+* Pull Requests
+* Code Review
+* Bash
+
+---
+
+## Проекты
+Все алгоритмы, структуры данных и основные компоненты проектов реализованы самостоятельно.
+
+### Semantic Search Engine
+
+Разработала систему семантического поиска на основе плотных текстовых представлений.
+
+**Технологии:**
+Python, Sentence Transformers, NumPy
+
+**Что реализовано:**
+
+* интеграция модели `sentence-transformers/all-MiniLM-L6-v2`;
+* генерация текстовых embedding-векторов размерности 384;
+* поддержка одиночного и пакетного кодирования текстов;
+* нормализация векторных представлений;
+* поиск релевантных объектов через cosine similarity.
+
+**Полученные навыки:**
+
+* работа с pretrained-моделями;
+* понимание принципов embedding-based retrieval;
+* построение компонентов поисковых ML-систем.
+
+---
+
+### Python Data Science Projects
+
+Набор практических проектов по анализу данных и машинному обучению.
+
+**Технологии:**
+Python, NumPy, Pandas, Matplotlib, Scikit-learn
+
+**Что реализовано:**
+
+* исследовательский анализ данных (EDA);
+* подготовка и исследование датасетов;
+* построение ML-моделей;
+* анализ ошибок и качества моделей;
+* участие в Kaggle-задачах.
+
+**Полученные навыки:**
+
+* полный цикл работы с ML-задачей: от анализа данных до оценки результатов;
+* интерпретация результатов моделей;
+* работа с экспериментами и гипотезами.
+
+---
+
+### Graph Algorithms & Network Optimization
+
+Проекты по реализации алгоритмов на графах и оптимизации сетевых структур.
+
+**Технологии:**
+Python, C
+
+**Что реализовано:**
+
+* алгоритмы обработки графов;
+* оптимизационные методы;
+* работа со структурами данных.
+
+**Полученные навыки:**
+
+* алгоритмическое мышление;
+* анализ сложности решений;
+* разработка эффективных алгоритмов.
+
+---
+
+## Командный опыт
+
+Имею опыт командной разработки ML-проектов:
+
+* работа через Git workflow;
+* использование pull requests;
+* проведение code review;
+* распределение задач внутри команды;
+* совместная разработка и обсуждение технических решений.
+* участие в хакатонах
+
+---
