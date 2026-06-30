@@ -3,9 +3,6 @@
 <!--
 **winkdy9/winkdy9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# winkdy
-AI Engineering student portfolio: algorithms, data structures and machine learning projects
-
 # Привет! Меня зовут Анастасия
 
 Я студентка направления **«Инженерия искусственного интеллекта»**.
