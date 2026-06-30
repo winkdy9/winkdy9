@@ -1,9 +1,5 @@
 
 <img width="498" height="498" alt="cat-headphones" src="https://github.com/user-attachments/assets/3c908614-bc8d-406f-9b8b-854e889ee6b7" />
-<!--
-**winkdy9/winkdy9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 # Привет! Меня зовут Анастасия
 
